@@ -2,8 +2,7 @@
 Sematic web Projekt
 Zusammenhang zwischen der Einwohnerzahl und der Anzahl der Angebote von "Brand new" Luxusauto in den Bundesländern
 
-#Ergebnisse
-Beispiel für Anfragen:
+Ergebnisse Beispiel für Anfragen:
 1. Anzahl der Autoangeboten im vergleichen mit Einwohnerzahl je Km2 in Bundesländern.
 * SPARQL
 ```sparql
