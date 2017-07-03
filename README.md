@@ -38,4 +38,4 @@ Bremen | 206 | 1599
 
 * Ergebnisse Chart
 
-![alt tag](https://raw.https://github.com/qnguyenl/htwk-sematicweb/master/data/result/chart2.png)
+![alt tag](https://raw.github.com/qnguyenl/htwk-sematicweb/master/data/result/chart2.png)
