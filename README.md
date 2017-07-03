@@ -14,7 +14,7 @@ WHERE {
      ?state state:name ?stateName ;
      	state:populationEachKm2 ? populationEachKm2 .
 } GROUP BY ?state
-```
+``
 * Ergebnisse als Tabelle
 Bundesland | Cars | Einwohnerzahl je Km2
 ------------ | ------------- | -------------
@@ -34,5 +34,6 @@ Mecklenburg-Vorpommern|53|69
 Hamburg|268|2366
 Saarland|25|388
 Bremen|206|1599
-*Ergebnisse Chart
+
+* Ergebnisse Chart
 ![alt tag](https://raw.https://github.com/qnguyenl/htwk-sematicweb/master/data/result/chart2.png)
