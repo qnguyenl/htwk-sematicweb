@@ -16,8 +16,8 @@ WHERE {
 ```
 
 * Ergebnisse als Tabelle
-Bundesland | Cars | Einwohnerzahl je Km2
------------- | ------------- | -------------
+| Bundesland | Cars | Einwohnerzahl je Km2 |
+|------------|-------------|-------------|
 Nordrhein-Westfalen | 3238 | 524
 Brandenburg | 357 | 84
 Baden-Württemberg | 1495 | 304
