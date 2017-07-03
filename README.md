@@ -12,9 +12,9 @@ WHERE {
      ?car car:plz ?plz .
      ?plz plz:state ?state .
      ?state state:name ?stateName ;
-     		state:populationEachKm2 ? populationEachKm2 .
+     	state:populationEachKm2 ? populationEachKm2 .
 } GROUP BY ?state
-´´´
+```
 * Ergebnisse als Tabelle
 Bundesland | Cars | Einwohnerzahl je Km2
 ------------ | ------------- | -------------
