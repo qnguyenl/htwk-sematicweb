@@ -14,7 +14,7 @@ WHERE {
      ?state state:name ?stateName ;
      	state:populationEachKm2 ? populationEachKm2 .
 } GROUP BY ?state
-``
+```
 * Ergebnisse als Tabelle
 Bundesland | Cars | Einwohnerzahl je Km2
 ------------ | ------------- | -------------
