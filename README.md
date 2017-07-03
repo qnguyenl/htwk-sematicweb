@@ -37,4 +37,5 @@ Saarland | 25 | 388
 Bremen | 206 | 1599
 
 * Ergebnisse Chart
+
 ![alt tag](https://raw.https://github.com/qnguyenl/htwk-sematicweb/master/data/result/chart2.png)
